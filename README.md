@@ -1,4 +1,4 @@
-# Simón González Quirós
+# Simón 
 ## Web Developer
 
 
