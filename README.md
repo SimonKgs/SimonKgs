@@ -1,9 +1,19 @@
-## Hi there 👋
+# Simón González Quirós
+## Web Developer
+
+
+
 
 <!--
 **SimonKgs/SimonKgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![IconName](IconURL)](LinkURL)
 Here are some ideas to get you started:
+
+👨‍💻 Professional Experience
+---
+1. Web Developer
+
+- 🌱 I’m currently learning
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
